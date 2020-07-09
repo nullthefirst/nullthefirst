@@ -12,7 +12,7 @@ Currently an Entrepreneur-In-Training at [MEST Africa](https://meltwater.org/), 
 
 After gaining experience tutoring individuals in Software Development as a pioneer [Developer Students Club](https://developers.google.com/community/dsc) Lead in SSA, I am currently a Mentor and Alumnus for the program. This initiative was in many ways my introduction to Google Cloud and its related technologies.
 
-I live by a simple motto: _"From one thing, you must know ten thousand things"_. 
+> I live by a simple motto: _"From one thing, you must know ten thousand things"_. 
 
 Conversations about commerce in emerging markets, professional development and building solutions for businesses are quite interesting to me, and I happily engage when able.
 
