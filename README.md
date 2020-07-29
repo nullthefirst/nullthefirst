@@ -10,11 +10,7 @@ I periodically write articles around the concepts I find interesting on [blog.ni
 
 ### Stack
 
-- Python
-- Django
-- Postgres
-- Heroku
-- Google Cloud
+Python | Django | Postgres | Heroku | Google Cloud
 
 ---
 
