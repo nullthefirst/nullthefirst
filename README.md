@@ -14,4 +14,4 @@ Python | Django | Postgres | Heroku | Google Cloud
 
 ---
 
-View my full profile at [ninte.dev](https://ninte.dev)
+View my full profile at [ninte.dev](https://ninte.dev).
