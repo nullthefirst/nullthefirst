@@ -12,7 +12,7 @@ Over the years, I have established a successful track record in building innovat
 
 ### Technologies
 
-Python | Django | Postgres | Heroku | Google Cloud
+Python | JavaScript (ES6+) | Django | Postgres | Heroku | Google Cloud
 
 ### Languages
 
@@ -20,4 +20,4 @@ English (Native or bilingual proficiency) | Swahili (Professional working profic
 
 ---
 
-View my full profile at [ninte.dev](https://ninte.dev).
+View my full profile at [ninte.dev](https://ninte.dev)
