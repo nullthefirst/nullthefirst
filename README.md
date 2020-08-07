@@ -2,9 +2,7 @@
 
 Good day. My name is **Usheninte Dangana**, 
 
-I am a Software Engineer passionate about using innovative implementations to improve business processes. 
-
-Over the years, I have established a successful track record in building exceptional digital experiences for profitable enterprises. 
+I am a Software Engineer passionate about using innovative implementations to improve business processes.
 
 Periodically, I write articles on [blog.ninte.dev](https://blog.ninte.dev) around the concepts I find interesting.
 
@@ -12,7 +10,7 @@ Periodically, I write articles on [blog.ninte.dev](https://blog.ninte.dev) aroun
 
 ### Technologies
 
-Python | JavaScript (ES6+) | Django | Postgres | Heroku | Google Cloud
+Python | JavaScript (ES6+) | Django | Postgres | Heroku | Google Cloud \[Storage]
 
 ### Languages
 
