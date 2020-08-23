@@ -16,6 +16,10 @@ Python | JavaScript (ES6+) | Django | SQL | Postgres | Heroku | Google Cloud \[S
 
 English (Native or bilingual proficiency) | Swahili (Professional working proficiency)
 
+### Entrepreneurial Profile
+
+I cofounded [JidiTrust](https://app.jiditrust.com) in 2020, a startup positioned towards being the foremost Business Growth partner for micro, small and medium enterprises in Africa. We offer business management tools and financial literacy education in African local dialects. This my primary project of focus at the moment.
+
 ---
 
 View my full profile at [ninte.dev](https://ninte.dev)
