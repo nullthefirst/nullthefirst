@@ -10,7 +10,7 @@ Periodically, I write articles on [blog.ninte.dev](https://blog.ninte.dev) aroun
 
 ### Technologies
 
-Python | JavaScript (ES6+) | Django | SQL | Postgres | Heroku | Google Cloud \[Storage]
+Python | Django | SQL | Postgres | Heroku | Google Cloud \[Storage]
 
 ### Languages
 
