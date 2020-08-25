@@ -18,7 +18,7 @@ English (Native or bilingual proficiency) | Swahili (Professional working profic
 
 ### Entrepreneurial Profile
 
-I cofounded [JidiTrust](https://app.jiditrust.com) in 2020, a startup positioned to becoming the foremost Business Growth Partner for micro, small and medium businesses in Africa. We offer business management tools and financial literacy education in African local dialects.
+I cofounded [JidiTrust](https://github.com/Usheninte/jiditrust-mvp) in 2020, a startup that offered business management tools and financial literacy education in African local dialects.
 
 ---
 
