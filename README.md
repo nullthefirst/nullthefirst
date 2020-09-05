@@ -4,8 +4,6 @@ Good day. My name is **Usheninte Dangana** - 'Ninte for short,
 
 I am a Software Engineer passionate about using innovative implementations to improve business processes.
 
-Periodically, I write articles on [blog.ninte.dev](https://blog.ninte.dev) around the concepts I find interesting.
-
 > I live by a simple motto: _"From one thing, you must know ten thousand things"_. 
 
 ### Technologies
@@ -18,8 +16,10 @@ English (Native or bilingual proficiency) | Swahili (Professional working profic
 
 ### Entrepreneurial Profile
 
-I cofounded [JidiTrust](https://github.com/Usheninte/jiditrust-mvp) in 2020, a startup offering business management tools and financial literacy education in African local dialects.
+I cofounded [JidiTrust](https://github.com/Usheninte/jiditrust-mvp) in 2020, a startup offering business management tools and financial literacy education in African local dialects. This was done during my in training at one of Africa's foremost **Software Entrepreneurship** institutions.
+
+Currently I operate the [ninte.dev](https://ninte.dev) brand as an Independent Owner. I am actively learning the idiosyncracies of Data Analysis and related Software Development practices, with the aim of building systems capable of creating value from information produced on the African continent.
 
 ---
 
-View my full profile at [ninte.dev](https://ninte.dev)
+Periodically, I write articles on [blog.ninte.dev](https://blog.ninte.dev) around the concepts I find interesting.
