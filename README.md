@@ -1,6 +1,6 @@
 # README.md
 
-Good day. My name is **Usheninte Dangana**, 
+Good day. My name is **Usheninte Dangana** - 'Ninte for short, 
 
 I am a Software Engineer passionate about using innovative implementations to improve business processes.
 
