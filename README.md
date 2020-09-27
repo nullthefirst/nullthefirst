@@ -2,7 +2,7 @@
 
 Mambo (Hello) 🌩 . My name is **Usheninte Dangana** - 'Ninte for short, 
 
-I am a Software Engineer passionate about using innovative implementations to improve business processes.
+I am a Software Developer passionate about using innovative implementations to improve business processes.
 
 > I live by a simple motto: _"From one thing, you must know ten thousand things"_. 
 
@@ -14,7 +14,7 @@ I am a Software Engineer passionate about using innovative implementations to im
 
 <img src="https://img.shields.io/badge/figma%20-%23000.svg?&style=for-the-badge&logo=figma&logoColor=white"/> | <img src="https://img.shields.io/badge/Google%20Cloud%20-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white"/>
 
-### Entrepreneurial Profile
+### A bit about me
 
 I cofounded [JidiTrust](https://github.com/Usheninte/jiditrust-mvp) in 2020, a startup offering business management tools and financial literacy education in African local dialects. This was done during my time as an Entrepreneur-in-Training at [MEST Africa](https://meltwater.org/).
 
