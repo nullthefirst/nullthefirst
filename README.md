@@ -1,6 +1,6 @@
 # README.md
 
-Mambo (Hello) 🌩 . My name is **Usheninte Dangana** - 'Ninte for short, 
+Mambo (Hello). My name is **Usheninte Dangana** - 'Ninte for short.
 
 I am a Software Developer passionate about using innovative implementations to improve business processes.
 
