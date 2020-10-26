@@ -10,10 +10,10 @@ I am a young professional keen on helping businesses leverage technology tools t
 
 ### A bit about me
 
-I served as the technical cofounder for [JidiTrust](https://github.com/Usheninte/jiditrust-mvp) in 2020 (April to August), a startup offering business management tools and financial literacy education in African local dialects. This was done during my time as an Entrepreneur-in-Training at [MEST Africa](https://meltwater.org/).
+Having worked in a wide range of industries offering visible improvements aided by technologies, I have crafted solid production-grade systems, trained staff and supported business processes. All this has helped my client firms unlocked latent profits, and better serve their customers (direct and otherwise). I am actively learning to build systems capable of creating value from information produced in Africa, to support these businesses even further.
 
-Currently I operate the [ninte.dev](https://ninte.dev) brand as a Technology Consultant. I am actively learning to build systems capable of creating value from information produced on the African continent.
+Currently I operate the [ninte.dev](https://ninte.dev) brand as a Technology Consultant. 
 
 ---
 
-Periodically, I write articles on [blog.ninte.dev](https://blog.ninte.dev) around the concepts I find interesting.
+[BLOG](https://blog.ninte.dev/) | [LINKEDIN PROFILE](https://www.linkedin.com/in/usheninte/) | [COMPANY PAGE]()
