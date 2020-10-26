@@ -16,4 +16,5 @@ Currently I operate the [ninte.dev](https://ninte.dev) brand as a Technology Con
 
 ---
 
-[BLOG](https://blog.ninte.dev/) | [LINKEDIN PROFILE](https://www.linkedin.com/in/usheninte/) | [COMPANY PAGE]()
+- https://blog.ninte.dev/
+- https://www.linkedin.com/in/usheninte/
