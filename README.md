@@ -1,8 +1,6 @@
 # README.md
 
-Mambo (Hello). My name is **Usheninte Dangana** - 'Ninte for short.
-
-I am a Software Developer passionate about using innovative implementations to improve business processes.
+I am a young professional keen on helping businesses leverage technology tools to reduce inefficiencies while increasing both productivity and profitability. Over the years, I have established a successful track record in building innovative digital experiences for profitable enterprises. sses.
 
 > I live by a simple motto: _"From one thing, you must know ten thousand things"_. 
 
