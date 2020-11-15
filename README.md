@@ -12,8 +12,6 @@ I am a young professional keen on helping businesses leverage technology tools t
 
 I have helped my client firms unlock latent profits, and better serve their customers (direct and otherwise). I am actively learning to build systems capable of creating value from information produced in Africa, to support these businesses even further.
 
-Currently I operate the [ninte.dev](http://linkedin.com/company/ninte-dev/) brand as a Business Technology Consultant. 
-
 ---
 
 - https://blog.ninte.dev/
