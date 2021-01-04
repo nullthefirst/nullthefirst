@@ -16,4 +16,4 @@ I have helped my client firms unlock latent profits, and better serve their cust
 
 ### Professional profile
 
-- https://www.linkedin.com/in/usheninte/
+- https://www.linkedin.com/company/nullnow-computing/
