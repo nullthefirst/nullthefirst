@@ -16,4 +16,4 @@ I have helped my client firms unlock latent profits, and better serve their cust
 
 ### The company, the platform
 
-- https://www.linkedin.com/company/nullnow-computing/
+- https://www.linkedin.com/company/nullnow/
