@@ -10,7 +10,8 @@ I have helped my client firms/ products unlock latent profits, and better serve 
 
 ---
 
-### The company, the platform
+### Profiles
 
-- https://www.linkedin.com/company/nullnow/
-- https://www.nullnow.com
+- [Website](https://ninte.dev)
+- [LinkedIn](https://linkedin.com/in/nullthefirst)
+- [Art & Poetry](https://instagram.com/nullthefirst)
