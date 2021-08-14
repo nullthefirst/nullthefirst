@@ -14,4 +14,3 @@ I have helped my client firms/ products unlock latent profits, and better serve 
 
 - [Website](https://ninte.dev)
 - [LinkedIn](https://linkedin.com/in/nullthefirst)
-- [Art & Poetry](https://instagram.com/nullthefirst)
