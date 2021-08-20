@@ -4,9 +4,9 @@ I am a young professional keen on helping businesses leverage technology tools t
 
 > I live by a simple motto: _"From one thing, you must know ten thousand things"_.
 
-### A bit about me
+### Stack
 
-I have helped my client firms/ products unlock latent profits, and better serve their customers (direct and otherwise). I am actively learning to build systems capable of creating value from information produced in Africa, to support these businesses even further.
+\- React.js \- Node.js \- Express.js \- MongoDB/ Mongoose.js \- Git \- Figma \- Heroku \- Netlify
 
 ---
 
