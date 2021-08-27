@@ -6,7 +6,9 @@ I am a young professional keen on helping businesses leverage technology tools t
 
 ### Stack
 
-\- React.js \- Node.js \- Express.js \- MongoDB/ Mongoose.js \- Git \- Figma \- Heroku \- Netlify
+\- JavaScript \- Node/ Express.js  
+\- Dart \- Flutter \- Firebase  
+\- Git \- Figma \- Heroku \- Netlify  
 
 ---
 
