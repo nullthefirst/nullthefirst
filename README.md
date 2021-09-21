@@ -6,9 +6,9 @@ I am a young professional keen on helping businesses leverage technology tools t
 
 ### Stack
 
-\- JavaScript/ ES6+ \- Node/ Express.js \- React/ Next.js  
-\- MongoDB/ Mongoose.js \- PostgreSQL/ Sequelize.js  
-\- Git \- Figma \- Heroku \- Netlify  
+\- JavaScript/ ES6+ \- Node.js/ Express \- React/ React Natie  
+\- Standard SQL/ PostgreSQL \- Python/ Django  
+\- Git \- Figma \- Heroku \- Netlify \- AWS  
 
 ---
 
