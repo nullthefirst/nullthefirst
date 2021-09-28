@@ -6,8 +6,8 @@ I am a young professional keen on helping businesses leverage technology tools t
 
 ### Stack
 
-\- Node.js \- React/ React Native  
-\- Python/ Django \- PostgreSQL \- Redis  
+\- Node.js/ Express \- React/ React Native  
+\- Mongoose.js/ MongoDB \- Redis  
 \- Git \- Figma \- Heroku \- Netlify \- Google Cloud  
 
 ---
