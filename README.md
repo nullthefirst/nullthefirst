@@ -7,9 +7,7 @@ I am a young professional keen on helping businesses leverage technology tools t
 ### Stack
 
 \- Node.js/ Express \- React/ React Native  
-<!--
 \- Firebase: Cloud Functions/ Firestore  
--->
 \- Git \- Figma \- Netlify \- Google Cloud  
 
 ---
