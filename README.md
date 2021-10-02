@@ -8,7 +8,7 @@ I am a young professional keen on helping businesses leverage technology tools t
 
 \- JavaScript/ Node.js \- React/ React Native  
 \- Python/ Django web framework \- PostgreSQL  
-\- Git \- Figma \- Netlify \-Heroku \- Google Cloud  
+\- Git \- Figma \- Netlify \- Heroku \- Google Cloud  
 
 ---
 
