@@ -4,9 +4,9 @@ I am a young professional keen on helping businesses leverage technology tools t
 
 > I live by a simple motto: _"From one thing, you must know ten thousand things"_.
 
-### Stack
+### I've worked with
 
-\- Node.js \- React/ React Native  
+\- React/ React Native \- Dart/ Flutter  
 \- Python/ Django \- PostgreSQL \- Heroku  
 \- Git \- Figma \- Netlify \- Google Cloud  
 
