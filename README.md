@@ -7,7 +7,7 @@ I am a young professional keen on helping businesses leverage technology tools t
 ### Stack
 
 \- Node.js \- React/ React Native  
-\- Python/ Django \- PostgreSQL \- Heroku
+\- Python/ Django \- PostgreSQL \- Heroku  
 \- Git \- Figma \- Netlify \- Google Cloud  
 
 ---
