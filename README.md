@@ -6,9 +6,9 @@ I am a young professional keen on helping businesses leverage technology tools t
 
 ### I've worked with
 
-\- React/ React Native \- Dart/ Flutter  
-\- Python/ Django \- PostgreSQL \- Heroku  
-\- Git \- Figma \- Netlify \- Google Cloud  
+\- JavaScript/ Node.js \- React/ React Native  
+\- Dart/ Flutter \- Python/ Django \- PostgreSQL  
+\- Git \- Figma \- Netlify \- Heroku \- Google Cloud  
 
 ---
 
