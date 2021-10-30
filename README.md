@@ -4,10 +4,9 @@ I am a young professional keen on helping businesses leverage technology tools t
 
 > I live by a simple motto: _"From one thing, you must know ten thousand things"_.
 
-### I've worked with
+### I work with
 
-\- JavaScript/ Node.js \- React/ React Native  
-\- Heroku \- Python/ Django \- PostgreSQL  
+\- JavaScript/ Node.js \- Dart/ Flutter \- Firebase  
 \- Git \- Figma \- Netlify \- Google Cloud  
 
 ---
@@ -15,4 +14,5 @@ I am a young professional keen on helping businesses leverage technology tools t
 ### Profiles
 
 - [Website](https://ninte.dev)
+- [Portfolio](https://ninte.dev/work)  
 - [LinkedIn](https://linkedin.com/in/nullthefirst)
