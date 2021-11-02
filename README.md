@@ -6,8 +6,8 @@ I am a young professional keen on helping businesses leverage technology tools t
 
 ### I work with
 
-\- JavaScript/ Node.js \- Dart/ Flutter \- Firebase  
-\- Git \- Figma \- Netlify \- Google Cloud  
+\- Dart/ Flutter \- Python/ Django \- PostgreSQL  
+\- Git \- Figma \- Netlify \- Heroku \- Google Cloud  
 
 ---
 
