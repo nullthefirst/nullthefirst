@@ -7,16 +7,10 @@ _I find fulfilment by helping businesses reduce inefficiencies while increasing 
 I live by a simple philosophy:  
 > "... From one thing, know ten thousand things. When you attain the Way of Strategy there will not be one thing you cannot see."
 
-#### Skills
-
-➦ Market Research  
-➦ Strategic Analysis & Communications  
-➦ R programming  
-
 ---
 
-### Profiles
-
-- [Website](https://ninte.dev)
-- [Blog](https://life.ninte.dev)  
-- [LinkedIn](https://linkedin.com/in/nullthefirst)
+Skills | ~ | Online
+:--- | --- | :---
+➦ Market Research | ~ | [LinkedIn](https://linkedin.com/in/nullthefirst)
+➦ Strategic Analysis <br />& Communications | ~ | [Website](https://ninte.dev)
+➦ R programming | ~ | [Blog](https://life.ninte.dev)
