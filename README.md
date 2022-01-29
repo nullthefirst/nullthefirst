@@ -11,6 +11,6 @@ I live by a simple philosophy:
 
 Skills | ~ | Online
 :--- | --- | :---
-➦ Market Research | ~ | [LinkedIn](https://linkedin.com/in/nullthefirst)
-➦ Strategic Analysis <br />& Communications | ~ | [Website](https://ninte.dev)
-➦ R programming | ~ | [Blog](https://life.ninte.dev)
+Market Research | ~ | [LinkedIn](https://linkedin.com/in/nullthefirst)
+Strategic Analysis <br />& Communications | ~ | [Website](https://ninte.dev)
+R programming | ~ | [Blog](https://life.ninte.dev)
