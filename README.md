@@ -4,7 +4,7 @@ My name is **Tey**, hello 👋🏾
 I am a software engineer turned management consultant.
 
 I live by a simple philosophy:  
-> "... From one thing, know ten thousand things. <br />When you attain the Way of Strategy <br />there will not be one thing you cannot see."
+> "... From one thing, know ten thousand things. When you attain the Way of Strategy there will not be one thing you cannot see."
 
 ---
 
