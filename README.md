@@ -10,6 +10,6 @@ I live by a simple philosophy:
 
 Skills | ~ | Online
 :--- | --- | :---
-Strategic Analysis | ~ | [LinkedIn](https://linkedin.com/in/nullthefirst)
+Digital Transformation | ~ | [LinkedIn](https://linkedin.com/in/nullthefirst)
 Market Research | ~ | [Website](https://ninte.dev)
-Digital Transformation | ~ | [Blog](https://life.ninte.dev)
+R Programming | ~ | [Blog](https://life.ninte.dev)
