@@ -12,4 +12,4 @@ Skills | ~ | Online
 :--- | --- | :---
 Digital Transformation | ~ | [LinkedIn](https://linkedin.com/in/nullthefirst)
 Market Research | ~ | [Website](https://ninte.dev)
-R Programming | ~ | [Blog](https://life.ninte.dev)
+Product Management | ~ | [Blog](https://life.ninte.dev)
