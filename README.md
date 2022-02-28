@@ -10,6 +10,6 @@ I live by a simple philosophy:
 
 Skills | ~ | Online
 :--- | --- | :---
-Digital Transformation | ~ | [LinkedIn](https://linkedin.com/in/nullthefirst)
+Project Management | ~ | [LinkedIn](https://linkedin.com/in/nullthefirst)
 Market Research | ~ | [Website](https://ninte.dev)
-Product Management | ~ | [Blog](https://life.ninte.dev)
+Digital Transformation | ~ | [Nullnow Blog](https://blog.nullnow.com)
