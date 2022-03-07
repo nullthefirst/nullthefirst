@@ -12,4 +12,4 @@ Skills | ~ | Online
 :--- | --- | :---
 Project Management | ~ | [LinkedIn](https://linkedin.com/in/nullthefirst)
 Digital Transformation | ~ | [Website](https://ninte.dev)
-Strategy Consulting | ~ | [Nullnow Blog](https://blog.nullnow.com)
+Management Consulting | ~ | [Nullnow Blog](https://blog.nullnow.com)
