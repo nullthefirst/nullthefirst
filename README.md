@@ -11,5 +11,5 @@ I live by a simple philosophy:
 Skills | ~ | Online
 :--- | --- | :---
 Project Management | ~ | [LinkedIn](https://linkedin.com/in/nullthefirst)
-Market Research | ~ | [Website](https://ninte.dev)
-Digital Transformation | ~ | [Nullnow Blog](https://blog.nullnow.com)
+Digital Transformation | ~ | [Website](https://ninte.dev)
+Strategy Consulting | ~ | [Nullnow Blog](https://blog.nullnow.com)
