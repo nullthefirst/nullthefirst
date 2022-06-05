@@ -10,6 +10,6 @@ I live by a simple philosophy:
 
 Skills | ~ | Online
 :--- | --- | :---
-Software Development | ~ | [LinkedIn](https://linkedin.com/in/nullthefirst)
-Project Management | ~ | [Website](https://ninte.dev)
-Business Strategy | ~ | [Nullnow Blog](https://blog.nullnow.com)
+Product Management | ~ | [LinkedIn](https://linkedin.com/in/nullthefirst)
+Business Strategy | ~ | [Website](https://ninte.dev)
+Technology Advisory | ~ | [Nullnow Blog](https://blog.nullnow.com)
