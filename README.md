@@ -8,8 +8,8 @@ I live by a simple philosophy:
 
 ---
 
-Skills | ~ | Online
+Skills | ~ | Links
 :--- | --- | :---
-Product Management | ~ | [LinkedIn](https://linkedin.com/in/nullthefirst)
-Business Strategy | ~ | [Website](https://ninte.dev)
-Technology Advisory | ~ | [Nullnow Blog](https://blog.nullnow.com)
+Product Management | ~ | [Website](https://ninte.dev)
+Business Strategy | ~ | [Nullnow Blog](https://blog.nullnow.com)
+Technology Advisory | ~ | [LinkedIn](https://linkedin.com/in/nullthefirst)
