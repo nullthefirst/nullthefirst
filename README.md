@@ -2,7 +2,7 @@
 
 Hi there, my name is Ninte Dangana.  
 
-I am a software engineer turned product strategist.
+I am a software engineer turned product specialist.
 
 As a t-shaped entrepreneur, I help businesses make data-driven decisions.  
 
@@ -15,4 +15,4 @@ Skills | ~ | Links
 :--- | --- | :---
 Product Management | ~ | [Website](https://ninte.dev)
 Business Strategy | ~ | [Nullnow Blog](https://blog.nullnow.com)
-Management Consulting | ~ | [LinkedIn](https://linkedin.com/in/nullthefirst)
+Software Development | ~ | [LinkedIn](https://linkedin.com/in/nullthefirst)
