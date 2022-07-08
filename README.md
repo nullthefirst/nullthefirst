@@ -14,4 +14,4 @@ Skills | ~ | Links
 :--- | --- | :---
 Product Management | ~ | [Website](https://ninte.dev)
 Business Strategy | ~ | [Nullnow Blog](https://blog.nullnow.com)
-Software Development | ~ | [LinkedIn](https://linkedin.com/in/nullthefirst)
+Data Analysis | ~ | [LinkedIn](https://linkedin.com/in/nullthefirst)
