@@ -6,8 +6,7 @@ I am a software engineer turned product specialist.
 
 As a t-shaped entrepreneur, I help businesses create tech-enabled value.  
 
-I live by a simple philosophy:  
-> "... From one thing, you must know ten thousand things. To do so, attain the Way of Strategy."
+I live by a simple philosophy: _"To attain the way of strategy, you must study hard"_.
 
 ---
 
