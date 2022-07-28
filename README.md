@@ -2,7 +2,7 @@
 
 Hi there, my name is **Tey**.  
 
-I am a software engineer turned product specialist.
+I am a software engineer turned product strategist.
 
 As a t-shaped entrepreneur, I help businesses create tech-enabled value.  
 
