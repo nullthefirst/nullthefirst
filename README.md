@@ -1,17 +1,16 @@
-# README.md
+# Ninte Dangana
 
 Hi there, my name is **Tey**.  
 
-I am a software engineer turned product strategist.
-
-As a t-shaped entrepreneur, I help businesses create tech-enabled value.  
+I support ventures through product strategy and marketing research, to make data-driven decisions and create tech-enabled value.
 
 I live by a simple philosophy: _"To attain the way of strategy, you must study hard"_.
 
----
-
 Skills | ~ | Links
 :--- | --- | :---
-Product Management | ~ | [Website](https://ninte.dev)
-Business Strategy | ~ | [Nullnow Blog](https://blog.nullnow.com)
-Marketing Research | ~ | [LinkedIn](https://linkedin.com/in/nullthefirst)
+Product Strategy | ~ | [Website](https://ninte.dev)
+Marketing Research  | ~ | [LinkedIn](https://linkedin.com/in/nullthefirst)
+
+---
+
+At [Nullnow Computing](https://www.linkedin.com/company/nullnow/?viewAsMember=true), we support executive teams working in or looking to operate in African markets.
