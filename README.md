@@ -1,6 +1,6 @@
 # Ninte Dangana
 
-Hi there, my name is **Tey**.  
+Hi there, my name is **Tey**. I am a software engineer turned product consultant.
 
 I support ventures through product strategy and marketing research, to make data-driven decisions and create value using technology.
 
