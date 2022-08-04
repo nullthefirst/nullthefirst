@@ -2,7 +2,7 @@
 
 Hi there, my name is **Tey**.  
 
-I support ventures through product strategy and marketing research, to make data-driven decisions and create tech-enabled value.
+I support ventures through product strategy and marketing research, to make data-driven decisions and create value using technology.
 
 I live by a simple philosophy: _"To attain the way of strategy, you must study hard"_.
 
