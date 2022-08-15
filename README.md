@@ -9,7 +9,7 @@ I live by a simple philosophy: _"To attain the way of strategy, you must study h
 Skills | ~ | Links
 :--- | --- | :---
 Product Strategy | ~ | [Website](https://ninte.dev)
-Marketing Research  | ~ | [LinkedIn](https://linkedin.com/in/nullthefirst)
+R Programming  | ~ | [LinkedIn](https://linkedin.com/in/nullthefirst)
 
 ---
 
