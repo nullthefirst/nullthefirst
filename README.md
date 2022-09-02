@@ -1,6 +1,6 @@
 # Ninte Dangana
 
-Hi there, my name is **Tey**. I am a software engineer turned product specialist.
+Hi there, my name is **Tey**. I am a software engineer turned business specialist.
 
 I help businesses make strategic decisions needed to create value using technology.
 
