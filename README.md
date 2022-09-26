@@ -1,4 +1,4 @@
-# Tey (Usheninte) Dangana
+# Usheninte Dangana
 
 Hi there, my name is **Tey**. I am a software engineer turned business specialist.
 
