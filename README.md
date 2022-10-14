@@ -1,4 +1,4 @@
-Hi there 👋🏾, my name is **Tey**. I am a software engineer turned business specialist.
+Hi there 👋🏾, my name is **Tey**.
 
 I help businesses make strategic decisions needed to create value using technology.
 
