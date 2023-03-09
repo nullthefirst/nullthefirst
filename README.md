@@ -1,4 +1,4 @@
-Hi there 👋🏾.
+Hi 👋🏾, I'm Tey.
 
 I help businesses make strategic decisions needed to create value using technology.
 
