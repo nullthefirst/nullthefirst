@@ -4,4 +4,4 @@ I help businesses make strategic decisions needed to create value using technolo
 
 I live by a simple philosophy: _"To attain the way of strategy, you must study hard"_.
 
-> [Let's connect on LinkedIn 👍🏾](https://linkedin.com/in/nullthefirst)
+> Currently focusing on Frontend and Blockchain programming.
