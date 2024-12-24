@@ -1,4 +1,4 @@
-Hi there 👋🏾,
+Hi there 👋🏾, I'm Ninte 👑.
 
 I help businesses make strategic decisions needed to create value using technology.
 
