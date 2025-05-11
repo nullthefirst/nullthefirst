@@ -1,4 +1,4 @@
-Hi there 👋🏾🌍, my name is Usheninte Dangana.
+Hi there 👋🏾🌍.
 
 I help businesses make strategic decisions needed to create value using technology.
 
