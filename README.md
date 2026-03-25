@@ -1,3 +1,3 @@
-Hi there 👋🏾🌍.
+Hi there 👋🏾🌍, I'm Josh.
 
-I build fullstack web applications using JavaScript.
+I am a Python developer that builds fullstack web applications with Django and work on data science projects.
