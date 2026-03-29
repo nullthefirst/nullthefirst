@@ -1,3 +1,3 @@
 Hi there 👋🏾🌍, I'm Josh.
 
-I build fullstack web applications with JavaScript (React, Next.js and Mongoose.js).
+I work with Python to build web applications (Django) and data science projects.
