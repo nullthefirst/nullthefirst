@@ -1,4 +1,4 @@
-Hi there 👋🏾🌍, I'm Tey.
+Hi there 👋🏾🌍, I'm Tey (Usheninte Dangana).
 
 I build fullstack web applications, contribute to digital strategy, and manage technology projects.
 
