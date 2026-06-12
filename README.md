@@ -1,3 +1,3 @@
-Hi there 👋🏾🌍, I'm Joshua Usheninte.
+Hi there 👋🏾🌍, I'm Tey (Usheninte Dangana).
 
-I build fullstack web applications for entrepreneurs, leads technology teams, and manages digital operations.
+Tey builds fullstack web applications for entrepreneurs, leads technology teams, and manages digital operations.
