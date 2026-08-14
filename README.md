@@ -1,3 +1,5 @@
 Hi there 👋🏾🌍, I'm Joshua Usheninte.
 
-Tey builds fullstack web applications for entrepreneurs, leads technology teams, and manages digital operations.
+I support businesses via digital innovation and technology strategy.
+
+Samples of technology development projects I have led teams on and built can be found at [https://github.com/nullnow](https://github.com/nullnow).
