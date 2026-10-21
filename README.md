@@ -1,4 +1,4 @@
-Hello world 👋🏾🌍, I'm Usheninte Dangana.
+Hello world 👋🏾🌍, I'm Usheninte Dangana - you can call me Tey.
 
 I build fullstack software applications, advise on strategy and manage technology products.
 
