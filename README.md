@@ -1,4 +1,4 @@
-Hello world 👋🏾🌍, I'm Usheninte Dangana.
+Hello world 👋🏾🌍, my name is Ninte.
 
 I build fullstack software applications, advise on strategy and manage technology products.
 
