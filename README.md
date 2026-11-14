@@ -1,4 +1,4 @@
-Hello world 👋🏾🌍, my name is Usheninte Dangana.
+Hello world 👋🏾🌍, my name is Joshua Usheninte.
 
 I build fullstack software applications, advise on strategy and manage technology products.
 
